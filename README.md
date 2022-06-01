@@ -1,0 +1,7 @@
+- # sobre mim 
+- 👋 Sou *@EduardoIpolito*
+- 👀 Estou interessado em colher aprendizado e experiências
+- 🌱 Estou aprendendo HTML, CSS e javaScript
+- 💞️ Nas horas vagas eu procrastino
+- 📫 Entre em contato por: eduardo.ipolito@eduardo.pr.gov.br
+- 
